@@ -1,0 +1,54 @@
+/* Discord styling */
+
+.discord-wrapper {
+    background: #36393e;
+    color: #dcddde;
+    font-family: sans-serif;
+    border:6px solid black;
+  }
+  
+  .navbar {
+    background: white;
+    padding: 20px;
+    color: black;
+    border:2px solid black;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar h1{
+    border:6px solid black;
+    width:300px;
+    padding : 10px 15px;
+    border-radius: 7px;
+  }
+  
+  .main-content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Recording controls */
+  
+  .record-controls {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button {
+    background: black;
+    border-radius: 7px;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left:12px;
+    border:6px solid white;
+  }
+  
+  footer h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
